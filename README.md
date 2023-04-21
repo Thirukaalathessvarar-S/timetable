@@ -121,9 +121,9 @@ Reg.no:212222230161
 ```
 
 # OUPUT
-![image](https://user-images.githubusercontent.com/121166390/233005187-863ce3b8-b273-4757-9abd-41f8cff93d0d.png)
+![image](https://user-images.githubusercontent.com/121166390/233533260-82ae67f5-6207-442f-a1da-180635a8479c.png)
 
+![image](https://user-images.githubusercontent.com/121166390/233533054-c9a4eb02-b996-46aa-93da-73803d29581a.png)
 
-![2023-04-19](https://user-images.githubusercontent.com/121166390/233004689-1c38b742-2f45-45ad-a87b-e5c4e9352d51.png)
-
-
+## RESULT
+Thus the program has been executed .
